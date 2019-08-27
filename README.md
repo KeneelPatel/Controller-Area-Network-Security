@@ -1,1 +1,2 @@
 # Controller Area Network Security
+This repository includes three folders that are libraries used in this project. This project adds security on the controller area network. Controller area network is one of the most important component in the microcontroller network. Fun fact about the CAN is, it does have any inbuilt security on it. So, the goal for this project was to add some security layers on the CAN to come up with a mechanism that is not computational intensive. 
